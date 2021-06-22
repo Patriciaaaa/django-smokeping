@@ -17,7 +17,7 @@ setup(
     long_description = README,
     author = 'Julien Collas',
     author_email = 'jul.collas@gmail.com',
-    install_requires=['django-mptt>=0.5.5'],
+    install_requires=['django-mptt==0.5.5'],
     classifiers = [
         'Environment :: Web Environment',
         'License :: OSI Approved :: GNU License',
